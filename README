@@ -1,0 +1,2 @@
+Shell script to control MPD while using a password.
+Usage: mpcd [play|pause|stop|toggle|random|single|status]
